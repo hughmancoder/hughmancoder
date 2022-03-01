@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning javascript and how to tie shoelaces
+- 👯 I’m always keen to collaborate on projects
+- ⚡ Fun fact: I code better in my sleep
 <!--
 **hughmancoder/hughmancoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
