@@ -2,7 +2,7 @@
 
 - 📫 hugh.signoriello@gmail.com
 - 👨‍🎓 Bachelor of Comptuter Science (Advanced) minor: AI
-- 💬 C++, Python, HTML, CSS, JavaScript, SQL
+- 💬 C++, Python, HTML, CSS, JavaScript (Node, Express), SQL
 - 🌱 Algorithms, Competitive Programming
 
 <!--
