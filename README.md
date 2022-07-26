@@ -1,9 +1,10 @@
 ### Hello world 👋
 
 - 📫 hugh.signoriello@gmail.com
-- 👨‍🎓 Bachelor of Comptuter Science (Advanced) minor: AI
+- 👨‍🎓 Bachelor of computer Science; minor: AI
 - 💬 C++, Python, HTML, CSS, JavaScript (Node, Express), SQL
 - 🌱 Currently learning: Algorithms, Competitive Programming, Node.js, React.js
+- Aspiring software engineer
 
 <!--
 **hughmancoder/hughmancoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
