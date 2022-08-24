@@ -1,9 +1,9 @@
 ### Hello world 👋
 
-- 📫 hugh.signoriello@gmail.com
-- 👨‍🎓 Computer Science (AI)
-- 💬 C++, Python, JavaScript (Node, Express), SQL
-- 🌱 Currently learning: Machine Learning with python
+📫 hugh.signoriello@gmail.com
+👨‍🎓 Computer Science (AI)
+💬 C++, Python, JavaScript (Node, Express), SQL
+🌱 Currently learning: Machine Learning with python
 
 <!--
 **hughmancoder/hughmancoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
