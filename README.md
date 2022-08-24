@@ -1,8 +1,10 @@
 ### Hello world 👋
 
-📫 hugh.signoriello@gmail.com
-👨‍🎓 Computer Science (AI)
-💬 C++, Python, JavaScript (Node, Express), SQL
+📫 hugh.signoriello@gmail.com. 
+👨‍🎓 Computer Science (AI). 
+
+💬 C++, Python, JavaScript (Node, Express), SQL. 
+
 🌱 Currently learning: Machine Learning with python
 
 <!--
