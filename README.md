@@ -6,7 +6,7 @@
 
 💬 C++, Python, JavaScript (Node, Express), SQL
 
-🌱 Currently learning: Machine Learning with python
+🌱 Currently learning: Machine Learning with python and React
 
 <!--
 **hughmancoder/hughmancoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
