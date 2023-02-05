@@ -6,7 +6,7 @@
 
 💬 Typescript (React, Next.js, Node.js, Tailwind.css), C++, Python
 
-🌱 Currently learning: Neural Netorks, fast AI
+🌱 Currently learning: Neural Networks, fast AI
 
 💻 https://www.linkedin.com/in/hugh-signoriello/
 
