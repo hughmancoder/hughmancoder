@@ -4,9 +4,9 @@
 
 👨‍🎓 Computer Science (AI)
 
-💬 C++, Python, JavaScript (Node, Express), SQL
+💬 Typescript (React, Next.js, Node.js, Tailwind.css), C++, Python
 
-🌱 Currently learning: Machine Learning with python and React
+🌱 Currently learning: Neural Netorks, fast AI
 
 <!--
 **hughmancoder/hughmancoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
