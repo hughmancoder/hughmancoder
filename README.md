@@ -8,7 +8,7 @@
 
 🌱 Currently learning: Neural Networks, fast AI
 
-🖥️ https://hughmancoder.github.io/
+🖥️ https://hughmancoder.github.io/website
 
 💻 https://www.linkedin.com/in/hugh-signoriello/
 
