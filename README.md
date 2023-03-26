@@ -10,8 +10,6 @@
 
 🖥️ https://hughmancoder.github.io/website
 
-💻 https://www.linkedin.com/in/hugh-signoriello/
-
 <!--
 **hughmancoder/hughmancoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
