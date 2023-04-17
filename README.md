@@ -6,7 +6,7 @@
 
 💬 Typescript (React, Next.js, Node.js, Tailwind.css), C++, Python
 
-🌱 Currently learning: Neural Networks, fast AI
+🌱 Currently learning: AI algorityhms, full stack software (typescript, react, node, firebasea)
 
 🖥️ https://hughmancoder.github.io/website
 
