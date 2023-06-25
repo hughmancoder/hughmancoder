@@ -4,7 +4,7 @@
 
 👨‍🎓 Computer Science (AI)
 
-💬 Typescript (React, Next.js, Node.js, Tailwind.css), C++, Python
+💬 React.ts,Python, C++
 
 🖥️ https://hughmancoder.github.io/website
 
