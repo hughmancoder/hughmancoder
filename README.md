@@ -1,10 +1,10 @@
 ### Hello world 👋
 
-📫 hugh.signoriello@gmail.com
-
 👨‍🎓 Computer Science (AI)
 
 💬 React.ts,Python, C++
+
+📫 hugh.signoriello@gmail.com
 
 🖥️ [checkout my portfolio](https://hughmancoder.github.io/website)
 
