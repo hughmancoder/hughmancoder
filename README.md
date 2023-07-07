@@ -2,7 +2,7 @@
 
 👨‍🎓 Computer Science (AI)
 
-💬 React.ts,Python, C++
+💬 Typescript, Python, C++, Java, React
 
 📫 hugh.signoriello@gmail.com
 
