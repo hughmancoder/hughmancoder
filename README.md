@@ -6,7 +6,7 @@
 
 💬 React.ts,Python, C++
 
-🖥️ https://hughmancoder.github.io/website
+🖥️ [checkout my portfolio](https://hughmancoder.github.io/website)
 
 <!--
 **hughmancoder/hughmancoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
