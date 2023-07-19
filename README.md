@@ -1,6 +1,6 @@
 # Hello world 👋
 
-👨‍🎓 Computer Science (AI)
+👨‍🎓 Bachelor of Computer Science (AI)
 
 📫 <hugh.signoriello@gmail.com>
 
