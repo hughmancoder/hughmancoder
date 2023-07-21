@@ -4,7 +4,7 @@
 
 📫 <hugh.signoriello@gmail.com>
 
-🖥️ [Checkout my portfolio](https://hughsignoriello.com)
+🖥️ [Checkout my page](https://hughsignoriello.com)
 
 ## Technologies
 
