@@ -1,6 +1,6 @@
 # Hello world 👋
 
-👨‍🎓 Computer Science 
+👨🏽‍💻 Software Engineer 
 
 📫 <hugh.signoriello@gmail.com>
 
