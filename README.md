@@ -1,20 +1,19 @@
-```
+`
  __  __     __  __     ______     __  __    
 /\ \_\ \   /\ \/\ \   /\  ___\   /\ \_\ \   
 \ \  __ \  \ \ \_\ \  \ \ \__ \  \ \  __ \  
  \ \_\ \_\  \ \_____\  \ \_____\  \ \_\ \_\ 
   \/_/\/_/   \/_____/   \/_____/   \/_/\/_/ 
                                                                                                       
-```
-```
+`
+`
  ______     __     ______     __   __     ______     ______     __     ______     __         __         ______    
 /\  ___\   /\ \   /\  ___\   /\ "-.\ \   /\  __ \   /\  == \   /\ \   /\  ___\   /\ \       /\ \       /\  __ \   
 \ \___  \  \ \ \  \ \ \__ \  \ \ \-.  \  \ \ \/\ \  \ \  __<   \ \ \  \ \  __\   \ \ \____  \ \ \____  \ \ \/\ \  
  \/\_____\  \ \_\  \ \_____\  \ \_\\"\_\  \ \_____\  \ \_\ \_\  \ \_\  \ \_____\  \ \_____\  \ \_____\  \ \_____\ 
   \/_____/   \/_/   \/_____/   \/_/ \/_/   \/_____/   \/_/ /_/   \/_/   \/_____/   \/_____/   \/_____/   \/_____/ 
                                                                                                                   
-```
- [portfolio](https://hughsignoriello.com)
+`
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
