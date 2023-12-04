@@ -5,16 +5,11 @@
  \ \_\ \_\  \ \_____\  \ \_____\  \ \_\ \_\     \/\_____\  \ \_\  \ \_____\  \ \_\\"\_\  \ \_____\  \ \_\ \_\  \ \_\  \ \_____\  \ \_____\  \ \_____\  \ \_____\ 
   \/_/\/_/   \/_____/   \/_____/   \/_/\/_/      \/_____/   \/_/   \/_____/   \/_/ \/_/   \/_____/   \/_/ /_/   \/_/   \/_____/   \/_____/   \/_____/   \/_____/ 
                                                                                                                                                                  
-```                                                                                                                                                                 
-# Hello world 👋
+```
 
-👨🏽‍💻 Software Engineer 
+ <hugh.signoriello@gmail.com>
 
-📫 <hugh.signoriello@gmail.com>
-
-🖥️ [Check out my portfolio](https://hughsignoriello.com)
-
-## My Tech Stack
+ [website](https://hughsignoriello.com)
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
