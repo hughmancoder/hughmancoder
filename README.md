@@ -55,7 +55,6 @@
 [![SQL](https://img.shields.io/badge/SQL-003B57.svg?style=for-the-badge&logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![Sanity](https://img.shields.io/badge/Sanity-000000.svg?style=for-the-badge&logo=sanity&logoColor=white)](https://www.sanity.io/
 
-)
 
 ---
 
