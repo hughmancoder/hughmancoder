@@ -1,3 +1,10 @@
+ __  __     __  __     ______     __  __        ______     __     ______     __   __     ______     ______     __     ______     __         __         ______    
+/\ \_\ \   /\ \/\ \   /\  ___\   /\ \_\ \      /\  ___\   /\ \   /\  ___\   /\ "-.\ \   /\  __ \   /\  == \   /\ \   /\  ___\   /\ \       /\ \       /\  __ \   
+\ \  __ \  \ \ \_\ \  \ \ \__ \  \ \  __ \     \ \___  \  \ \ \  \ \ \__ \  \ \ \-.  \  \ \ \/\ \  \ \  __<   \ \ \  \ \  __\   \ \ \____  \ \ \____  \ \ \/\ \  
+ \ \_\ \_\  \ \_____\  \ \_____\  \ \_\ \_\     \/\_____\  \ \_\  \ \_____\  \ \_\\"\_\  \ \_____\  \ \_\ \_\  \ \_\  \ \_____\  \ \_____\  \ \_____\  \ \_____\ 
+  \/_/\/_/   \/_____/   \/_____/   \/_/\/_/      \/_____/   \/_/   \/_____/   \/_/ \/_/   \/_____/   \/_/ /_/   \/_/   \/_____/   \/_____/   \/_____/   \/_____/ 
+                                                                                                                                                                 
+
 # Hello world 👋
 
 👨🏽‍💻 Software Engineer 
@@ -49,10 +56,10 @@
 
 ---
 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)
+![React Native](https://img.shields.io/badge/react%20native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 
 
 <!--
