@@ -1,4 +1,4 @@
-`
+```
   _   _             _     
  | | | |_   _  __ _| |__  
  | |_| | | | |/ _` | '_ \ 
@@ -6,19 +6,19 @@
  |_| |_|\__,_|\__, |_| |_|
               |___/       
                                                                                                       
-`
-`
+```
+```
   ____  _                        _      _ _       
  / ___|(_) __ _ _ __   ___  _ __(_) ___| | | ___  
  \___ \| |/ _` | '_ \ / _ \| '__| |/ _ \ | |/ _ \ 
   ___) | | (_| | | | | (_) | |  | |  __/ | | (_) |
  |____/|_|\__, |_| |_|\___/|_|  |_|\___|_|_|\___/ 
           |___/                                   
-`
+```
 
 ### About
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://au.linkedin.com/in/hughsignoriello)
 [![My Website](https://img.shields.io/badge/My_Website-%23FF5722.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hughsignoriello.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://au.linkedin.com/in/hughsignoriello)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hugh.signoriello)
 
 ---
