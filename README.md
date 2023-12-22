@@ -1,22 +1,4 @@
-```
- __  __     __  __     ______     __  __    
-/\ \_\ \   /\ \/\ \   /\  ___\   /\ \_\ \   
-\ \  __ \  \ \ \_\ \  \ \ \__ \  \ \  __ \  
- \ \_\ \_\  \ \_____\  \ \_____\  \ \_\ \_\ 
-  \/_/\/_/   \/_____/   \/_____/   \/_/\/_/ 
-
-```
-```
- ______     __     ______     __   __     ______     ______     __     ______     __         __         ______    
-/\  ___\   /\ \   /\  ___\   /\ "-.\ \   /\  __ \   /\  == \   /\ \   /\  ___\   /\ \       /\ \       /\  __ \   
-\ \___  \  \ \ \  \ \ \__ \  \ \ \-.  \  \ \ \/\ \  \ \  __<   \ \ \  \ \  __\   \ \ \____  \ \ \____  \ \ \/\ \  
- \/\_____\  \ \_\  \ \_____\  \ \_\\"\_\  \ \_____\  \ \_\ \_\  \ \_\  \ \_____\  \ \_____\  \ \_____\  \ \_____\ 
-  \/_____/   \/_/   \/_____/   \/_/ \/_/   \/_____/   \/_/ /_/   \/_/   \/_____/   \/_____/   \/_____/   \/_____/ 
-                                                                                                                  
-                                                                                                      
-```
-
-### About
+# About
 [![My Website](https://img.shields.io/badge/My_Website-%23FF5722.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hughsignoriello.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://au.linkedin.com/in/hughsignoriello)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hugh.signoriello)
