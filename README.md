@@ -1,5 +1,5 @@
 ## About
-[![My Website](https://img.shields.io/badge/My_Website-%23FF5722.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hughsignoriello.com)
+[![Portfolio](https://img.shields.io/badge/My_Website-%23FF5722.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hughsignoriello.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://au.linkedin.com/in/hughsignoriello)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hugh.signoriello)
 
