@@ -1,6 +1,4 @@
-# Hugh Signoriello
-
-## [portfolio](https://hughsignoriello.com/)
+# [Hugh Signoriello](https://hughsignoriello.com/)
 
 ---
 
