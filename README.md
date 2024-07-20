@@ -1,4 +1,4 @@
-# [Hugh Signoriello](https://hughsignoriello.com/)
+# Hugh Signoriello
 
 ---
 
